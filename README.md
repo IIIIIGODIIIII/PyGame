@@ -20,11 +20,11 @@ To run these games, you need to have Python and Pygame installed on your system.
    pip install pygame
 
 ## Usage
-Run any of the game scripts using Python. For example, to play "Infinity Runner," execute:
+- Run any of the game scripts using Python. For example, to play "Infinity Runner," execute:
     
-    ```bash
-    python Infinity Runner.py
+   ```bash
+   python Infinity Runner.py
 
-Games Included:-
+## Games Included
 1. Infinity Runner: An endless runner game where you must avoid obstacles.
 2. Snake: The classic snake game where you control a snake to eat food and grow longer.
